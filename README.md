@@ -65,3 +65,10 @@ On your MySQL workbench, if you do not see a connection already displayed, here'
 
 ## Mac/Linux
 
+Installing MySQL is easier with Mac and Linux since it can be done from the terminal. The instructions can be found directly from the MySQL site which will be listed below:
+
+[MacOS](https://dev.mysql.com/doc/refman/8.0/en/macos-installation.html)
+
+[Linux](https://dev.mysql.com/doc/refman/8.0/en/linux-installation.html)
+
+
