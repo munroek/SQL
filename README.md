@@ -57,7 +57,9 @@ For the window service, leave everything to the default settings.
 
 For the server file permissions, keep the default settings, and select Next. We're now brought to the Apply Configuration setting and you can press Execute. Once it says the configuration is successful, proceed by selecting Finish. Hit Next and Finish one last time. The installation is now completed.
 
+On your MySQL workbench, if you do not see a connection already displayed, here's what you will need to do. Select the plus icon, and for Connection Name, you can list it as "local server" or whatever you'd like. Leave everything as-is, and go to where it says password. Select "Store in Vault..." and input the password you created for the root user. Select OK after entering your password, and select test connection. Once you get the feedback saying it was a success, select OK, and the connection will now be present in your workbench. 
 
+![sixth](https://onedrive.live.com/embed?resid=C6BB67E526E3A1E4%217029&authkey=%21AF8l6AVHobsh-lU&width=1639&height=766)
 
 
 
