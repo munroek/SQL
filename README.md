@@ -31,27 +31,27 @@ As defined by [Oracle](https://www.oracle.com/database/what-is-a-relational-data
 
 Under the Setup Type, we'll want to select "Custom". 
 
-!(first - select custom.png)
+![first image](https://onedrive.live.com/embed?resid=C6BB67E526E3A1E4%217024&authkey=%21ALyRuJfFZB5hAxo&width=794&height=591)
 
 Next, we'll want to select the workbench and server. Make sure, they're the most recent ones. Expand MySQL Servers by selecting the plus, and keep expanding them until you come across MySQL Server 8.0.33 - X64. The version might be different in the future. Once you have it selected, select the arrow pointing towards the empty box. 
 
-!(second - select the products needed.png)
+![second image](https://onedrive.live.com/embed?resid=C6BB67E526E3A1E4%217027&authkey=%21AIdRk_3Cg-FQeFg&width=778&height=589)
 
 You will do the same thing for the Workbench. Scroll down the list in the left box until you get to where it says Applications. Keep expanding the list until you come across MySQL Workbench 8.0.33 - X64. Select it, and press the right arrow once more. The right box should now be populated with the workbench and server. Click Next.
 
-!(third - select next.png)
+![third image](https://onedrive.live.com/embed?resid=C6BB67E526E3A1E4%217028&authkey=%21ALGdWBsUiXOdEDg&width=782&height=589)
 
 On the download section, select execute and then Next and select Execute once again. Here at the configuration page, you'll select Next, again.
 
 We're now brought to the Type and Networking section of the installer. It should default to the Development Computer for the Config Type dropdown menu. we'll want to keep the pre-filled input for everything else. Click Next.
 
-!()
+![fourth image](https://onedrive.live.com/embed?resid=C6BB67E526E3A1E4%217026&authkey=%21ABRjodfZDT_0emM&width=783&height=587)
 
 For the Authentication Method, leave it set to "Use Strong Password..." and select Next.
 
 For Accounts and Rules, we need to provide a password for the root user, since the root user will have access to everything on the server. After providing a password and confirming it, select Next. You do not need to add a user.
 
-!()
+![fifth image](https://onedrive.live.com/embed?resid=C6BB67E526E3A1E4%217025&authkey=%21ANTNCNk1-cm23_Y&width=774&height=584)
 
 For the window service, leave everything to the default settings.
 
