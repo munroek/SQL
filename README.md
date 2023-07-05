@@ -71,4 +71,30 @@ Installing MySQL is easier with Mac and Linux since it can be done from the term
 
 [Linux](https://dev.mysql.com/doc/refman/8.0/en/linux-installation.html)
 
+# Practice creating and deleting databases:
+
+## Create a database
+
+`CREATE DATABASE databasename;`
+
+## Delete a database
+
+`DROP DATABASE databasename;`
+
+# Selecting the database
+
+## choose the database to work with
+
+`USE databasename`
+
+# Creating a table
+
+`CREATE TABLE table_name (
+  column1 datatype,
+  column2 datatype,
+  column3 datatype,
+  column4 datatype,
+  ...
+);`
+
 
