@@ -23,3 +23,21 @@ As defined by [Oracle](https://www.oracle.com/database/what-is-a-relational-data
 * Tables can be connected to other tables utilizing relationship constraints.
 * We use the Structured Query Language (SQL) to retrieve information from the database
 
+# Installing the MySQL Server and Workbench
+
+## Windows
+
+[MySQL Community Download](https://dev.mysql.com/downloads/windows/installer/8.0.html)
+
+Under the Setup Type, we'll want to select "Custom". 
+
+!()
+
+Next, we'll want to select the workbench and server. Make sure, they're the most recent ones. Expand MySQL Servers by selecting the plus, and keep expanding them until you come across MySQL Server 8.0.33 - X64. The version might be different in the future. Once you have it selected, select the arrow pointing towards the empty box. 
+
+You will do the same thing for the Workbench. Scroll down the list in the left box until you get to where it says Applications. Keep expanding the list until you come across MySQL Workbench 8.0.33 - X64. Select it, and press the right arrow once more. The right box should now be populated with the workbench and server.
+
+Click Next.
+
+## Mac/Linux
+
